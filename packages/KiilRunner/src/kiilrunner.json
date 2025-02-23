@@ -1,0 +1,16 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "%{EMAIL}",
+                "Name": "%{AUTHOR}"
+            }
+        ],
+        "Description": "KiilRunner runner",
+        "EnabledByDefault": true,
+        "Icon": "planetkde",
+        "License": "LGPL 2.1+",
+        "Name": "KiilRunner",
+        "Version": "0.1"
+    }
+}
